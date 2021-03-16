@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4CollabKTM", "Lab4CollabKTM\Lab4CollabKTM.csproj", "{6419AC5D-8C63-4ABF-9D2A-19618A4847FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6419AC5D-8C63-4ABF-9D2A-19618A4847FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6419AC5D-8C63-4ABF-9D2A-19618A4847FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6419AC5D-8C63-4ABF-9D2A-19618A4847FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6419AC5D-8C63-4ABF-9D2A-19618A4847FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91BD4E50-209D-4557-9AE6-53B05DD95BE0}
+	EndGlobalSection
+EndGlobal
